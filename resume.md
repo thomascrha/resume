@@ -4,7 +4,7 @@ margin-right: 2cm
 margin-top: 1cm
 margin-bottom: 2cm
 title: Thomas Crha
-description-meta: 'Senior Engineer with a strong background programming, operations and application development.'
+description-meta: 'Senior Engineer with a strong background in systems, operations and software engineering.'
 keywords:
   - 'python'
   - 'go'
@@ -72,7 +72,7 @@ keywords:
   - 'linux'
   - 'git'
 ---
-### Senior Engineer with a strong background programming, operations and application development.
+### Senior Engineer with a strong background in systems, operations and software engineering.
 
 ###### [ [thomascrha.github.io](https://github.com/thomascrha) ] . [ [thomas@9bitbyte.com](mailto:thomas@9bitbyte.com) ] . [ [0449 856 278](tel:0449856278) ]
 
@@ -80,11 +80,11 @@ keywords:
 
 **Programming:** Python, Go, Rust, JavaScript, C, bash, C#/ASP.NET, SQL, HTML/CSS 
 
-**Data science/Machine Learning:** Pandas, NumPy, Matplotlib, Scikit-learn, SciPy, Jupyter, Seaborne, Plotly, Hugginface, OpenAI, AzureML, Argilla, Databricks
+**Data science & Machine Learning:** Pandas, NumPy, Matplotlib, Scikit-learn, SciPy, Jupyter, Seaborne, Plotly, Hugginface, OpenAI, AzureML, Argilla, Databricks
 
 **Web:** FastAPI, Flask, Django, SQLAlchemy, Celery, Sveltekit, Tailwind, React, Angular 1.x, MaterialUI, Vue, HTMX 
 
-**Infrastructure and Tools:** Git, GNU Utils, RabbitMQ, Redis, Docker, Docker-Swarm, Kubernetes, AWS, GCP, Azure, Terraform, Helm, Ansible, Packer, Vagrant
+**Infrastructure & Tools:** Git, GNU Utils, RabbitMQ, Redis, Docker, Docker-Swarm, Kubernetes, AWS, GCP, Azure, Terraform, Helm, Ansible, Packer, Vagrant
 
 **Databases:** PostgreSQL, MySQL/MariaDB, MSSQL, MongoDB, InfluxDB, ElasticSearch
 
