@@ -7,6 +7,70 @@ title: Thomas Crha
 description-meta: 'Senior Engineer with a strong background programming, operations and application development.'
 keywords:
   - 'python'
+  - 'go'
+  - 'rust'
+  - 'javascript'
+  - 'c'
+  - 'bash'
+  - 'c#'
+  - 'asp.net'
+  - 'sql'
+  - 'html'
+  - 'css'
+  - 'pandas'
+  - 'numpy'
+  - 'matplotlib'
+  - 'scikit-learn'
+  - 'scipy'
+  - 'jupyter'
+  - 'seaborn'
+  - 'plotly'
+  - 'hugginface'
+  - 'openai'
+  - 'argilla'
+  - 'databricks'
+  - 'fastapi'
+  - 'flask'
+  - 'django'
+  - 'sqlalchemy'
+  - 'celery'
+  - 'sveltekit'
+  - 'tailwind'
+  - 'react'
+  - 'angular'
+  - 'materialui'
+  - 'vue'
+  - 'htmx'
+  - 'rabbitmq'
+  - 'redis'
+  - 'docker'
+  - 'docker-swarm'
+  - 'kubernetes'
+  - 'aws'
+  - 'gcp'
+  - 'azure'
+  - 'terraform'
+  - 'helm'
+  - 'ansible'
+  - 'packer'
+  - 'vagrant'
+  - 'postgresql'
+  - 'mysql'
+  - 'mariadb'
+  - 'mssql'
+  - 'mongodb'
+  - 'influxdb'
+  - 'elasticsearch'
+  - 'machine learning'
+  - 'data science'
+  - 'full stack'
+  - 'backend'
+  - 'frontend'
+  - 'devops'
+  - 'sre'
+  - 'infrastructure'
+  - 'linux'
+  - 'git'
 ---
 ### Senior Engineer with a strong background programming, operations and application development.
 
@@ -20,7 +84,7 @@ keywords:
 
 **Web:** FastAPI, Flask, Django, SQLAlchemy, Celery, Sveltekit, Tailwind, React, Angular 1.x, MaterialUI, Vue, HTMX 
 
-**Infrastructure and Tools:** RabbitMQ, Redis, Docker, Docker-Swarm, Kubernetes, AWS, GCP, Azure, Terraform, Helm, Ansible, Packer, Vagrant
+**Infrastructure and Tools:** Git, GNU Utils, RabbitMQ, Redis, Docker, Docker-Swarm, Kubernetes, AWS, GCP, Azure, Terraform, Helm, Ansible, Packer, Vagrant
 
 **Databases:** PostgreSQL, MySQL/MariaDB, MSSQL, MongoDB, InfluxDB, ElasticSearch
 
@@ -41,7 +105,7 @@ Working within the data analytics team building/maintaining a variety of service
 
 2019-2022, Sydney, NSW
 
-Working on multiple greenfield projects for various clients based primarily around automation of network infrastructure (routers, switches etc.). With a focus on designing, creating and implementing backend solutions and performing BAU Dev-Ops/SRE roles for managing and maintain clients infrastructure using infrastructure as code paradigms.
+Working on multiple greenfield projects for various clients based primarily around automation of network infrastructure (routers, switches etc.). With a focus on designing, creating and implementing back-end solutions and performing BAU Dev-Ops/SRE roles for managing and maintain clients infrastructure using infrastructure as code paradigms.
 	
 - Designed and developed a collection engine for collecting, processing and actioning network device infrastructure by crawling through a network and hoping between devices collecting their data.
 - Worked on [Rapid for Telstra Purple](https://www.dragonflytechnologies.com/case-studies/telstra-rapid#) a Ansible Tower like offering for managing and provisioning network infrastructure.
@@ -54,7 +118,7 @@ Working on multiple greenfield projects for various clients based primarily arou
 Part of a small team maintaining Appen's language resource work tool, Ampersand. Running the day-to-day tasks of the site (dev-ops and infrastructure management),feature creation and bug fixing. 
 
 - Helped move from our old system to Ampersand beginning 2018
-- Implemented a large-scale data automated onboarding/deletion system (2tb of data per week)
+- Implemented a large-scale data automated on boarding/deletion system (2Tb of data per week)
 - Implemented our lexicon tool into Ampersand feature set
 - Implemented the video transcription module used inside the tool allowing users to annotate video recordings. 
 
