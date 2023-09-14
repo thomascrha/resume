@@ -26,4 +26,7 @@ jobs:
             ./output/resume-${{ github.ref_name }}.pdf
             ./output/resume-${{ github.ref_name }}.html
             ./output/resume-${{ github.ref_name }}.docx
+            ./output/resume-${{ github.ref_name }}.zip
             ./output/resume-${{ github.ref_name }}.css
+
+
