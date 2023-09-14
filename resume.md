@@ -4,7 +4,7 @@ margin-right: 2cm
 margin-top: 1cm
 margin-bottom: 2cm
 title: Thomas Crha
-description-meta: 'Senior Engineer with a strong background in systems, operations and software engineering.'
+description-meta: 'senior engineer with a strong background in systems, operations and software.'
 keywords:
   - 'python'
   - 'go'
@@ -72,8 +72,8 @@ keywords:
   - 'linux'
   - 'git'
 ---
-### senior engineer with a strong background in systems, operations and software engineering.
-###### [ [thomascrha.github.io](https://github.com/thomascrha) ] . [ [thomas@9bitbyte.com](mailto:thomas@9bitbyte.com) ] . [ [0449 856 278](tel:0449856278) ]
+### senior engineer with a strong background in systems, operations and software. {#under-heading}
+###### [ [thomascrha.github.io](https://github.com/thomascrha) ] . [ [thomas@9bitbyte.com](mailto:thomas@9bitbyte.com) ] . [ [0449 856 278](tel:0449856278) ] {#under-heading}
 ## skills
 
 **Programming:** Python, Go, Rust, JavaScript, C, bash, C#/ASP.NET, SQL, HTML/CSS 

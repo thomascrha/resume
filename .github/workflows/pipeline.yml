@@ -3,14 +3,14 @@ name: Resume Pipeline
 on:
   push:
     tags:
-      - v** # Trigger on every tag push
+      - v**
 
 jobs:
   resume-pipeline:
     runs-on: ubuntu-latest
     steps:
       - name: "Checkout"
-        uses: actions/checkout@v3 # this checks out the repo in the ubuntu container
+        uses: actions/checkout@v3
         with:
           fetch-depth: '0'
 
