@@ -1,12 +1,12 @@
-SHELL      := /bin/bash
-
-RELEASE_VERSION=$(shell git describe --tags --abbrev=0)
+SHELL           := /bin/bash
+DEFAULT_GOAL    := convert
+RELEASE_VERSION := $(shell git describe --tags --abbrev=0)
 
 install-deps:
 	@echo "Installing dependencies..."
 	rm -rf output
 	mkdir -p output
-	wget -nc 'https://github.com/jgm/pandoc/releases/download/3.0.1/pandoc-3.0.1-1-amd64.deb'
+	wget -nc 'https://github.com/jgm/pandoc/releases/download/3.1.8/pandoc-3.1.8-1-amd64.deb'
 	wget -nc 'https://github.com/wkhtmltopdf/packaging/releases/download/0.12.6.1-2/wkhtmltox_0.12.6.1-2.jammy_amd64.deb'
 	sudo apt install ./pandoc-3.0.1-1-amd64.deb
 	sudo apt install ./wkhtmltox_0.12.6.1-2.jammy_amd64.deb
@@ -28,4 +28,5 @@ convert-to-html: convert-to-docx
 convert: convert-to-html
 	@echo "Converting to PDF..."
 	wkhtmltopdf --enable-local-file-access output/resume-$(RELEASE_VERSION).html output/resume-$(RELEASE_VERSION).pdf
+	zip -jr output/resume-$(RELEASE_VERSION).zip output/resume-$(RELEASE_VERSION).*
 .PHONY: convert
