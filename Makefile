@@ -1,6 +1,6 @@
 SHELL      := /bin/bash
 
-TIMESTAMP=$(date +%s)
+RELEASE_VERSION=$(shell git describe --tags --abbrev=0)
 
 install-deps:
 	@echo "Installing dependencies..."
@@ -13,12 +13,12 @@ install-deps:
 convert-to-html: install-deps
 	@echo "Converting to HTML..."
 	mkdir -p output
-	pandoc resume.md -f markdown -t html -c resume.css -s -o output/resume-${TIMESTAMP}.html
+	pandoc resume.md -f markdown -t html -c resume.css -s -o output/resume-$RELEASE_VERSION.html
 .PHONY: convert-to-html
 
 convert-to-pdf: convert-to-html
 	@echo "Converting to PDF..."
 	mkdir -p output
-	wkhtmltopdf --enable-local-file-access output/resume-${TIMESTAMP}.html output/resume-${TIMESTAMP}.pdf
+	wkhtmltopdf --enable-local-file-access output/resume-$RELEASE_VERSION.html output/resume-$RELEASE_VERSION.pdf
 .PHONY: convert-to-pdf
 

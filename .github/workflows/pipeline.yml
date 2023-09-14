@@ -1,0 +1,25 @@
+name: Resume Pipeline
+
+on:
+  push:
+    tags:
+      - v** # Trigger on every tag push
+
+jobs:
+  convert_via_pandoc:
+    runs-on: ubuntu-22.04
+    steps:
+      - name: "Checkout"
+        uses: actions/checkout@v3 # this checks out the repo in the ubuntu container
+        with:
+          fetch-depth: '0'
+      - name: "Get latest Tag"
+        run: echo "RELEASE_VERSION=${GITHUB_REF#refs/*/}" >> $GITHUB_ENV
+      - name: "Create Docs"
+        run: |
+          mkdir output
+          make convert-to-pdf
+      - uses: actions/upload-artifact@master
+        with:
+          name: Thomas Crha's Resume
+          path: output
