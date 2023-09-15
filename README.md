@@ -13,6 +13,8 @@ Anyone's personal resume pipeline. Inspired by many but my favourite is [this on
 
 ## dependencies
 
+Linux is the only supported OS.
+
 You'll need the following installed:
 * [make](https://www.gnu.org/software/make/)
 
