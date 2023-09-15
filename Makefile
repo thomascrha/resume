@@ -22,10 +22,9 @@ convert-to-docx: install-deps
 
 convert-to-html: convert-to-docx
 	@echo "Converting to HTML..."
-	pandoc resume.md -f markdown -t html -c resume-$(RELEASE_VERSION).css -s -o output/resume-$(RELEASE_VERSION).html
+	pandoc resume.md --embed-resources --standalone -f markdown -t html -c resume-$(RELEASE_VERSION).css -s -o output/resume-$(RELEASE_VERSION).html
 	mkdir -p html
-	cp resume.css html/resume-$(RELEASE_VERSION).css
-	cp output/resume-$(RELEASE_VERSION).md html/index.html
+	cp output/resume-$(RELEASE_VERSION).html html/index.html
 .PHONY: convert-to-html
 
 convert: convert-to-html
