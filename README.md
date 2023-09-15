@@ -41,6 +41,6 @@ These are installed by the Makefile WARNING: they may require dependencies that 
 
 ## css hints
 
-CSS is hard. The mental model IMO is hard - especially for my grug brain.
+I've never liked CSS. The mental model IMO is hard - especially for my grug brain.
 
 So the css file was bastardised from the project above. The main thing that you'll probably want to know is you can set custom HTML tags line by line inside the markdown source of truth. that pandoc will respect. For example `{#under-heading}` putting this at the end of any line will apply the styles associated with the class name.
