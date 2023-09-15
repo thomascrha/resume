@@ -76,9 +76,9 @@ keywords:
 ###### [ [thomascrha.github.io](https://github.com/thomascrha) ] . [ [thomas@9bitbyte.com](mailto:thomas@9bitbyte.com) ] . [ [0449 856 278](tel:0449856278) ] {#under-heading}
 ## skills
 
-**Programming:** Python, Go, Rust, JavaScript, C, bash, C#/ASP.NET, SQL, HTML/CSS 
+**Programming:** Python, JavaScript, bash, C#/ASP.NET, SQL, HTML/CSS 
 
-**Data science & Machine Learning:** Pandas, NumPy, Matplotlib, Scikit-learn, SciPy, Jupyter, Seaborne, Plotly, Hugginface, OpenAI, AzureML, Argilla, Databricks
+**Data science & Machine Learning:** Pandas, NumPy, Matplotlib, Scikit-learn, SciPy, Jupyter, Seaborne, Plotly, Hugginface, OpenAI, AzureML, Argilla, Databricks, spaCy 
 
 **Web:** FastAPI, Flask, Django, SQLAlchemy, Celery, Sveltekit, Tailwind, React, Angular 1.x, MaterialUI, Vue, HTMX 
 
