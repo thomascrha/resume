@@ -9,16 +9,30 @@ jobs:
   resume-pipeline:
     runs-on: ubuntu-latest
     steps:
-      - name: "Checkout"
+      - name: Checkout
         uses: actions/checkout@v3
         with:
           fetch-depth: '0'
 
-      - name: "Create resume docs"
+      - name: Create resume docs
         run: |
           make convert
 
-      - name: "Create release"
+      - name: Setup Pages
+        uses: actions/configure-pages@v3
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v2
+        with:
+          files: |
+            ./output/resume-${{ github.ref_name }}.html
+            ./output/resume-${{ github.ref_name }}.css
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v2
+
+      - name: Create release
         uses: softprops/action-gh-release@v1
         with:
           files: |
