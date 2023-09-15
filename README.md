@@ -4,6 +4,8 @@ Anyone's personal resume pipeline. Inspired by many but my favourite is [this on
 
 ## usage
 
+<sub><sup>pssst you can just run `make docker` and have it all be done inside a container</sup></sub>
+
 1. Fork this repo.
 2. Edit `resume.md` to your liking. Please for the love of god don't use my resume - it's awful.
 3. Run `make convert` to generate the various versions of your resume. This way you can fine tune the output locally. BTW the sudo access is to install pandoc and wkhtmltopdf.
@@ -13,7 +15,7 @@ Anyone's personal resume pipeline. Inspired by many but my favourite is [this on
 
 ## dependencies
 
-Linux is the only supported OS.
+Linux is the only supported OS. For other OSes you'll use `make docker`.
 
 You'll need the following installed:
 * [make](https://www.gnu.org/software/make/)
