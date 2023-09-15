@@ -5,6 +5,11 @@ on:
     tags:
       - v**
 
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
 jobs:
   resume-pipeline:
     runs-on: ubuntu-latest
@@ -20,14 +25,11 @@ jobs:
 
       - name: Setup Pages
         uses: actions/configure-pages@v3
-        with:
-          folder: output
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
         with:
           path: ./html/
-
 
       - name: Deploy to GitHub Pages
         id: deployment
