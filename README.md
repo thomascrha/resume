@@ -19,6 +19,13 @@ Linux is the only supported OS. For other OSes you'll use `make docker`.
 
 You'll need the following installed:
 * [make](https://www.gnu.org/software/make/)
+* [docker](https://www.docker.com/)
+* [git](https://git-scm.com/)
+* [sudo](https://www.sudo.ws/)
+* [bash](https://www.gnu.org/software/bash/)
+* [curl](https://curl.se/)
+* [ca-certificates](https://packages.debian.org/sid/ca-certificates)
+* [zip](https://packages.debian.org/sid/zip)
 
 These are installed by the Makefile WARNING: they may require dependencies that aren't documented here. It works in the GitHub action so it should work on your machine.
 * [pandoc](https://pandoc.org/)
