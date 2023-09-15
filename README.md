@@ -6,10 +6,19 @@ Anyone's personal resume pipeline. Inspired by many but my favourite is [this on
 
 1. Fork this repo.
 2. Edit `resume.md` to your liking. Please for the love of god don't use my resume - it's awful.
-3. Run `make convert` to generate the various versions of your resume. This way you can fine tune the output locally.
+3. Run `make convert` to generate the various versions of your resume. This way you can fine tune the output locally. BTW the sudo access is to install pandoc and wkhtmltopdf.
 4. You need to enable Pages via Action in Settings->Pages->Source. Make sure you enable write access to your GitHub Actions Settings->Actions->General->Workflow Permissions
 5. Now create a tag that starts with `v` and push it to GitHub. This will trigger a GitHub action that will generate a release with the various versions of your resume as assets.
 6. Now you can download the various versions of your resume from the release page and access your resume at `https://<your-github-username>.github.io/resume` - note if you forked it into `doperesume` it would be `/doperesume` instead of `/resume`.
+
+## dependencies
+
+You'll need the following installed:
+* [make](https://www.gnu.org/software/make/)
+
+These are installed by the Makefile WARNING: they may require dependencies that aren't documented here. It works in the GitHub action so it should work on your machine.
+* [pandoc](https://pandoc.org/)
+* [wkhtmltopdf](https://wkhtmltopdf.org/)
 
 ## goals
 
