@@ -20,13 +20,14 @@ jobs:
 
       - name: Setup Pages
         uses: actions/configure-pages@v3
+        with:
+          folder: output
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
         with:
-          files: |
-            ./output/resume-${{ github.ref_name }}.html
-            ./output/resume-${{ github.ref_name }}.css
+          path: ./html/
+
 
       - name: Deploy to GitHub Pages
         id: deployment
