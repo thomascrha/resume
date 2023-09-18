@@ -103,7 +103,7 @@ Working within the data analytics team building/maintaining a variety of service
 
 **2019-2022, Sydney, NSW**
 
-Working on multiple greenfield projects for various clients based primarily around the automation of network infrastructure (routers, switches etc.). With a focus on designing, creating and implementing back-end solutions and performing BAU Dev-Ops/SRE roles for managing and maintain clients infrastructure.
+Working on multiple greenfield projects for various clients based primarily around the automation of network infrastructure (routers, switches etc.). With a focus on designing, creating and implementing back-end solutions and performing BAU Dev-Ops/SRE roles for managing and maintaining clients infrastructure.
 
 - Architected the discovery-tool, an automation engine for collecting and processing network device information by crawling through a network.
 - Worked on [Rapid for Telstra Purple](https://www.dragonflytechnologies.com/case-studies/telstra-rapid#) a platform for managing and provisioning network infrastructure – primarily integrating the discovery-tool.
