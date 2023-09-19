@@ -72,9 +72,9 @@ keywords:
   - 'linux'
   - 'git'
 ---
-### senior engineer with a strong background in systems, operations and software. {#under-heading}
+### Senior engineer with a strong background in systems, operations and software. {#under-heading}
 ###### [ [thomascrha.github.io](https://github.com/thomascrha) ] . [ [thomas@9bitbyte.com](mailto:thomas@9bitbyte.com) ] . [ [0449 856 278](tel:0449856278) ] {#under-heading}
-## skills
+## Skills
 
 **Programming:** Python, JavaScript, bash, C#/ASP.NET, SQL, HTML/CSS 
 
@@ -87,7 +87,7 @@ keywords:
 **Databases:** PostgreSQL, MySQL/MariaDB, MSSQL, MongoDB, InfluxDB, ElasticSearch
 
 
-## experience
+## Experience
 
 ### Machine Learning Engineer, QBE Australia 
 
@@ -139,7 +139,7 @@ Creating custom solutions for various projects to meet client and business needs
 
 A small business that I run on the side, primarily for contracting work.
 
-## achievements
+## Achievements
 
 **Fusion:** a distributed system built for Dragonfly Technologies used inhouse to manage and monitor customer’s network, application and hardware infrastructure. Workflow services could be created, executed and monitored all within the application. These services could then also be published to a customer portal, allowing them to be run by external customers – providing them with self-service options.
 
@@ -147,7 +147,7 @@ A small business that I run on the side, primarily for contracting work.
 
 **End-to-end selenium testing suite:** a client-side testing suite implemented with server-side test. Included was a tool that allowed for recording of xpaths as the user clicked through a selenium hosted web session. This could then be used to generate code for the test. 
 
-## projects
+## Projects 
 
 **[whynes](https://github.com/thomascrha/whynes)** a 6502 Nintendo emulator written in Python.
 
