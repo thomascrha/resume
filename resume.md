@@ -91,7 +91,7 @@ keywords:
 
 ### Machine Learning Engineer, QBE Australia 
 
-**2022-current, Sydney, NSW**
+**Jun 2022 - current, Sydney, NSW**
 
 Working within the data analytics team building/maintaining a variety of services used by the wider business to improve claim management. 
 
@@ -101,7 +101,7 @@ Working within the data analytics team building/maintaining a variety of service
 
 ### Senior Engineer, Dragonfly Technologies 
 
-**2019-2022, Sydney, NSW**
+**Mar 2019 - Jun 2022, Sydney, NSW**
 
 Working on multiple greenfield projects for various clients based primarily around the automation of network infrastructure (routers, switches etc.). With a focus on designing, creating and implementing back-end solutions and performing BAU Dev-Ops/SRE roles for managing and maintaining clients infrastructure.
 
@@ -111,7 +111,7 @@ Working on multiple greenfield projects for various clients based primarily arou
 
 ### Full Stack Engineer, Appen Australia
 
-**2018-2019, Sydney, NSW**
+**Jan 2018 - Jan 2019, Sydney, NSW**
 
 Part of a small team maintaining and running the day-to-day tasks of the site of Appen’s language resource work tool, Ampersand.
 
@@ -121,7 +121,7 @@ Part of a small team maintaining and running the day-to-day tasks of the site of
 
 ### Project Engineer, Appen Australia
 
-**2012-2018, Sydney, NSW**
+**Sep 2012 - Jan 2018, Sydney, NSW**
 
 Creating custom solutions for various projects to meet client and business needs.
 
@@ -135,7 +135,7 @@ Creating custom solutions for various projects to meet client and business needs
 
 ### Owner and Operator, 9bitbyte
 
-**2013-current, Sydney, NSW**
+**July 2013 - current, Sydney, NSW**
 
 A small business that I run on the side, primarily for contracting work.
 
