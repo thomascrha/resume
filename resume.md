@@ -34,7 +34,6 @@ keywords:
   - 'django'
   - 'sqlalchemy'
   - 'celery'
-  - 'sveltekit'
   - 'tailwind'
   - 'react'
   - 'angular'
@@ -71,6 +70,7 @@ keywords:
   - 'infrastructure'
   - 'linux'
   - 'git'
+  - 'ollama'
 ---
 ### Senior engineer with a strong background in systems, operations and software. {#under-heading}
 ###### [ [thomascrha.github.io](https://github.com/thomascrha) ] . [ [thomas@9bitbyte.com](mailto:thomas@9bitbyte.com) ] . [ [0449 856 278](tel:0449856278) ] {#under-heading}
@@ -78,9 +78,9 @@ keywords:
 
 **Programming:** Python, JavaScript, bash, C#/ASP.NET, SQL, HTML/CSS 
 
-**Data science & Machine Learning:** Pandas, NumPy, Matplotlib, Scikit-learn, SciPy, Jupyter, Seaborne, Plotly, Hugginface, OpenAI, AzureML, Argilla, Databricks, spaCy 
+**Data science & Machine Learning:** Pandas, NumPy, Matplotlib, Scikit-learn, SciPy, Jupyter, Seaborne, Plotly, Hugginface, OpenAI, AzureML, Argilla, Databricks, spaCy, ollama
 
-**Web:** FastAPI, Flask, Django, SQLAlchemy, Celery, Sveltekit, Tailwind, React, Angular 1.x, MaterialUI, Vue, HTMX 
+**Web:** FastAPI, Flask, Django, SQLAlchemy, Celery, Tailwind, React, Angular 1.x, MaterialUI, Vue, HTMX 
 
 **Infrastructure and Tools:** Git, GNU Utils, RabbitMQ, Redis, Docker, Docker-Swarm, Kubernetes, AWS, GCP, Azure, Terraform, Helm, Ansible, Packer, Vagrant
 
@@ -93,11 +93,12 @@ keywords:
 
 **Jun 2022 - current, Sydney, NSW**
 
-Working within the data analytics team building/maintaining a variety of services used by the wider business to improve claim management. 
+Working within the data analytics team building/maintaining a variety of services and models used by the wider business to improve claim processes. 
 
-- Implemented a new artifact tagging system to improve developer operations.
+- Built a web application utilising LLM's in the aide of summarising/categorising calls made around claims.
+- Implemented a new artefact tagging system to improve developer operations.
 - Migrated their employee allocation tool from a legacy system to a new system built on top of FastAPI, HTMX, PostgreSQL.
-- Refactored their property triage tool-chain.
+- Refactored/redesigned their property triage tool-chain.
 
 ### Senior Engineer, Dragonfly Technologies 
 
