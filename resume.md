@@ -156,3 +156,9 @@ A small business that I run on the side, primarily for contracting work.
 
 **[resume](https://github.com/thomascrha/resume)** who doesn't like a little recursion.
 
+## Education
+
+**Bachelor of Information Technology, Charles Sturt University**
+**AWS Certified Developer - Associate**
+**CCNA Routing and Switching**
+**CSD - Certified Scrum Developer**
