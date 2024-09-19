@@ -1,9 +1,10 @@
 SHELL           := /bin/bash
-DEFAULT_GOAL    := convert
+DEFAULT_GOAL    := container
 RELEASE_VERSION := $(shell git describe --tags --abbrev=0)
+docker          := podman
 
-install-deps:
-	@echo "Installing dependencies..."
+install-deps-debian:
+	@echo "Installing dependencies debian..."
 	rm -rf output
 	mkdir -p output
 	if ! [[ -f ./pandoc-3.1.8-1-amd64.deb ]]; then curl -LO 'https://github.com/jgm/pandoc/releases/download/3.1.8/pandoc-3.1.8-1-amd64.deb'; fi
@@ -13,9 +14,9 @@ install-deps:
 	cp resume.md output/resume-${RELEASE_VERSION}.md
 	cp resume.css output/resume-${RELEASE_VERSION}.css
 	cp resume.css resume-${RELEASE_VERSION}.css
-.PHONY: install-deps
+.PHONY: install-deps-debian
 
-convert-to-docx: install-deps
+convert-to-docx: install-deps-debian
 	@echo "Converting to DOCX..."
 	pandoc resume.md --embed-resources --standalone -f markdown -t docx -c resume-${RELEASE_VERSION}.css -s -o output/resume-${RELEASE_VERSION}.docx
 .PHONY: convert-to-docx
@@ -34,10 +35,10 @@ convert: convert-to-html
 	zip -jr output/resume-${RELEASE_VERSION}.zip output/resume-${RELEASE_VERSION}.*
 .PHONY: convert
 
-docker:
+container:
 	@echo "Converting via Docker..."
 	rm -rf output
-	docker build -t resume-${RELEASE_VERSION} .
-	docker create --name resume-${RELEASE_VERSION} resume-${RELEASE_VERSION}
-	docker cp resume-${RELEASE_VERSION}:/app/output .
-.PHONY: docker
+	$(docker) build -t resume-${RELEASE_VERSION} .
+	$(docker) create --name resume-${RELEASE_VERSION} resume-${RELEASE_VERSION}
+	$(docker) cp resume-${RELEASE_VERSION}:/app/output .
+.PHONY: container
