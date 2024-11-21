@@ -72,8 +72,6 @@ keywords:
   - 'git'
   - 'ollama'
 ---
-
-### Thomas Crha  
 ###### [ [thomascrha.github.io](https://github.com/thomascrha) ] · [ [thomas@9bitbyte.com](mailto:thomas@9bitbyte.com) ] · [ [0449 856 278](tel:0449856278) ]
 
 
