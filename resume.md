@@ -76,13 +76,11 @@ keywords:
 ### Thomas Crha  
 ###### [ [thomascrha.github.io](https://github.com/thomascrha) ] · [ [thomas@9bitbyte.com](mailto:thomas@9bitbyte.com) ] · [ [0449 856 278](tel:0449856278) ]
 
----
 
 ## Professional Summary  
 
 Senior Engineer with 10+ years of experience in data engineering, machine learning, and infrastructure automation. Delivered scalable solutions that improved efficiency by over 40% in critical projects. Expert in Python, cloud platforms, and DevOps practices, with a proven ability to lead complex projects from inception to deployment. Passionate about driving business outcomes through innovative technology solutions.
 
----
 
 ## Skills  
 
@@ -92,7 +90,6 @@ Senior Engineer with 10+ years of experience in data engineering, machine learni
 **Databases:** PostgreSQL, MySQL/MariaDB, MSSQL, MongoDB, ElasticSearch  
 **Web Frameworks:** FastAPI, Flask, Django, SQLAlchemy, React, HTMX, Vue  
 
----
 
 ## Experience
 
@@ -134,7 +131,6 @@ Working on multiple greenfield projects for various clients based primarily arou
 **9bitbyte** – Sydney, NSW (Jul 2013 – Present)  
 - Delivered contracting projects, including custom application development, infrastructure optimization, and data analysis.  
 
----
 
 ## Achievements  
 
@@ -142,21 +138,18 @@ Working on multiple greenfield projects for various clients based primarily arou
 - **Discovery Tool:** Designed for Telstra to automate network device discovery, enabling efficient infrastructure audits.  
 - **End-to-End Selenium Testing Suite:** Developed a testing suite with server-side automation and XPath recording tools, streamlining client-side test workflows.  
 
----
 
 ## Projects  
 
 - **[Whynes](https://github.com/thomascrha/whynes):** A 6502 Nintendo emulator written in Python.  
 - **[Textual Game of Life](https://github.com/thomascrha/textual-game-of-life):** Implementation of Conway's Game of Life in a terminal using Textual.  
-- **[Resume](https://github.com/thomascrha/resume):** This resume, written in Markdown and converted to HTML using Pandoc - with a github pipline generating the resume artifacts
+- **[Resume](https://github.com/thomascrha/resume):** This resume, written in Markdown and converted to HTML/PDF/Docx using Pandoc - with a github pipline generating the resume artifacts
 
----
 
 ## Education  
 
 - **Bachelor of Information Technology** – Charles Sturt University  
 
----
 
 ## Certifications  
 
