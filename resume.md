@@ -72,33 +72,37 @@ keywords:
   - 'git'
   - 'ollama'
 ---
-### Senior engineer with a strong background in systems, operations and software. {#under-heading}
-###### [ [thomascrha.github.io](https://github.com/thomascrha) ] . [ [thomas@9bitbyte.com](mailto:thomas@9bitbyte.com) ] . [ [0449 856 278](tel:0449856278) ] {#under-heading}
-## Skills
 
-**Programming:** Python, JavaScript, bash, C#/ASP.NET, SQL, HTML/CSS 
+### Thomas Crha  
+###### [ [thomascrha.github.io](https://github.com/thomascrha) ] · [ [thomas@9bitbyte.com](mailto:thomas@9bitbyte.com) ] · [ [0449 856 278](tel:0449856278) ]
 
-**Data science & Machine Learning:** Pandas, NumPy, Matplotlib, Scikit-learn, SciPy, Jupyter, Seaborne, Plotly, Hugginface, OpenAI, AzureML, Argilla, Databricks, spaCy, ollama
+---
 
-**Web:** FastAPI, Flask, Django, SQLAlchemy, Celery, Tailwind, React, Angular 1.x, MaterialUI, Vue, HTMX 
+## Professional Summary  
 
-**Infrastructure and Tools:** Git, GNU Utils, RabbitMQ, Redis, Docker, Docker-Swarm, Kubernetes, AWS, GCP, Azure, Terraform, Helm, Ansible, Packer, Vagrant
+Senior Engineer with 10+ years of experience in data engineering, machine learning, and infrastructure automation. Delivered scalable solutions that improved efficiency by over 40% in critical projects. Expert in Python, cloud platforms, and DevOps practices, with a proven ability to lead complex projects from inception to deployment. Passionate about driving business outcomes through innovative technology solutions.
 
-**Databases:** PostgreSQL, MySQL/MariaDB, MSSQL, MongoDB, InfluxDB, ElasticSearch
+---
 
+## Skills  
+
+**Programming Languages:** Python, JavaScript, C#/ASP.NET, Bash, SQL, HTML/CSS  
+**Data Science & Machine Learning:** Pandas, NumPy, Matplotlib, Scikit-learn, Hugging Face, AzureML, Argilla, Databricks, Seaborn, Plotly, spaCy  
+**Cloud & Infrastructure:** AWS, Azure, Google Cloud Platform (GCP), Docker, Kubernetes, Terraform, Helm, Ansible  
+**Databases:** PostgreSQL, MySQL/MariaDB, MSSQL, MongoDB, ElasticSearch  
+**Web Frameworks:** FastAPI, Flask, Django, SQLAlchemy, React, HTMX, Vue  
+
+---
 
 ## Experience
 
-### Machine Learning Engineer, QBE Australia 
-
-**Jun 2022 - current, Sydney, NSW**
-
-Working within the data analytics team building/maintaining a variety of services and models used by the wider business to improve claim processes. 
-
-- Built a web application utilising LLM's in the aide of summarising/categorising calls made around claims.
-- Implemented a new artefact tagging system to improve developer operations.
-- Migrated their employee allocation tool from a legacy system to a new system built on top of FastAPI, HTMX, PostgreSQL.
-- Refactored/redesigned their property triage tool-chain.
+### Machine Learning Engineer  
+**QBE Australia** – Sydney, NSW (Jun 2022 – Present)  
+- Built a web application utilizing large language models (LLMs) to summarize and categorize claims-related calls, enhancing operational efficiency.  
+- Migrated the employee allocation tool from a legacy system to a modern stack using FastAPI and PostgreSQL.  
+- Redesigned and optimized the property triage tool-chain, significantly improving reliability and usability.  
+- Implemented a new artifact tagging system to streamline developer operations.  
+- Led the migration of 10+ applications from Docker Swarm to Kubernetes using Azure AKS, automating deployment with Terraform and improving scalability.  
 
 ### Senior Engineer, Dragonfly Technologies 
 
@@ -110,59 +114,52 @@ Working on multiple greenfield projects for various clients based primarily arou
 - Worked on [Rapid for Telstra Purple](https://www.dragonflytechnologies.com/case-studies/telstra-rapid#) a platform for managing and provisioning network infrastructure – primarily integrating the discovery-tool.
 - Designed and developed [fusion](https://www.dragonflytechnologies.com/services/automated-managed-services) a automation managed services platform. 
 
-### Full Stack Engineer, Appen Australia
+### Senior Engineer  
+**Dragonfly Technologies** – Sydney, NSW (Mar 2019 – Jun 2022)  
+- Designed and developed **Fusion**, a distributed system that increased operational efficiency by 40% by managing and monitoring customer network, application, and hardware infrastructure.  
+- Architected the **Discovery Tool**, an automation engine for network device inventory, capable of traversing complex network structures.  
 
-**Jan 2018 - Jan 2019, Sydney, NSW**
+### Full Stack Engineer  
+**Appen Australia** – Sydney, NSW (Jan 2018 – Jan 2019)  
+- Spearheaded improvements to Appen’s language resource tool, Ampersand, during its transition from legacy systems.  
+- Developed video transcription and lexicon tools, enabling advanced annotation and resource management.  
 
-Part of a small team maintaining and running the day-to-day tasks of the site of Appen’s language resource work tool, Ampersand.
+### Project Engineer  
+**Appen Australia** – Sydney, NSW (Sep 2014 – Jan 2018)  
+- Designed custom solutions and ETL pipelines for client projects.  
+- Upgraded Python scripts and applications from Python 2 to Python 3.  
+- Developed an automated backup system utilizing AWS Glacier to ensure secure data storage.  
 
-- Assisted in the transition from their old system to [Ampersand](https://success.appen.com/hc/en-us/articles/360049566731-Guide-to-Running-an-Audio-Transcription-Job).
-- Implemented our lexicon tool into [Ampersand](https://success.appen.com/hc/en-us/articles/360049566731-Guide-to-Running-an-Audio-Transcription-Job).
-- Implemented the video transcription module, allowing users to annotate video recordings. 
+### Owner and Operator  
+**9bitbyte** – Sydney, NSW (Jul 2013 – Present)  
+- Delivered contracting projects, including custom application development, infrastructure optimization, and data analysis.  
 
-### Project Engineer, Appen Australia
+---
 
-**Sep 2012 - Jan 2018, Sydney, NSW**
+## Achievements  
 
-Creating custom solutions for various projects to meet client and business needs.
+- **Fusion:** Delivered an in-house tool for Dragonfly Technologies that allowed customers to self-manage workflows, providing scalable managed services.  
+- **Discovery Tool:** Designed for Telstra to automate network device discovery, enabling efficient infrastructure audits.  
+- **End-to-End Selenium Testing Suite:** Developed a testing suite with server-side automation and XPath recording tools, streamlining client-side test workflows.  
 
-- Helped transition from python2 to python3 (conversion of scripts and sites).
-- Developed custom applications for client projects.
-- Implemented various ETL pipelines.
-- Preformed Linux server work to deploy and manage the various scripts/web application.
-- Performed various data science and analysis tasks for client projects.
-- Created multiple different packaging scripts and workflows for repeat clients.
-- Created an automated backup system utilising AWS's Glacier storage tier.
+---
 
-### Owner and Operator, 9bitbyte
+## Projects  
 
-**July 2013 - current, Sydney, NSW**
+- **[Whynes](https://github.com/thomascrha/whynes):** A 6502 Nintendo emulator written in Python.  
+- **[Textual Game of Life](https://github.com/thomascrha/textual-game-of-life):** Implementation of Conway's Game of Life in a terminal using Textual.  
+- **[Resume](https://github.com/thomascrha/resume):** This resume, written in Markdown and converted to HTML using Pandoc - with a github pipline generating the resume artifacts
 
-A small business that I run on the side, primarily for contracting work.
+---
 
-## Achievements
+## Education  
 
-**Fusion:** a distributed system built for Dragonfly Technologies used inhouse to manage and monitor customer’s network, application and hardware infrastructure. Workflow services could be created, executed and monitored all within the application. These services could then also be published to a customer portal, allowing them to be run by external customers – providing them with self-service options.
+- **Bachelor of Information Technology** – Charles Sturt University  
 
-**Discovery tool:** a tool developed for Telstra to crawl  device assets on a network. The engine works by connecting to a set of known devices – collects data from them and then attempts to ‘crawl’ (ssh to any devices that device has knowledge of) – and in doing so is able to traverse a complex network structure to find all devices that are currently connected to that network.
+---
 
-**End-to-end selenium testing suite:** a client-side testing suite implemented with server-side test. Included was a tool that allowed for recording of xpaths as the user clicked through a selenium hosted web session. This could then be used to generate code for the test. 
+## Certifications  
 
-## Projects 
-
-**[whynes](https://github.com/thomascrha/whynes)** a 6502 Nintendo emulator written in Python.
-
-**[textual-game-of-life](https://github.com/thomascrha/textual-game-of-life)** an implementation of Conway's game of life (cellular automata) in the terminal using textual.
-
-**[resume](https://github.com/thomascrha/resume)** who doesn't like a little recursion.
-
-## Education
-
-**Bachelor of Information Technology, Charles Sturt University**
-
-**AWS Certified Developer - Associate**
-
-**CCNA Routing and Switching**
-
-**CSD - Certified Scrum Developer**
-
+- **AWS Certified Developer – Associate**  
+- **CCNA Routing and Switching**  
+- **Certified Scrum Developer (CSD)**  
