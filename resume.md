@@ -77,7 +77,7 @@ keywords:
 
 ## Professional Summary  
 
-Senior Engineer with 10+ years of experience in data engineering, machine learning, and infrastructure automation. Delivered scalable solutions that improved efficiency by over 40% in critical projects. Expert in Python, cloud platforms, and DevOps practices, with a proven ability to lead complex projects from inception to deployment. Passionate about driving business outcomes through innovative technology solutions.
+Senior Engineer with 10+ years of experience in data engineering, machine learning, and infrastructure automation. Delivered scalable solutions that improved efficiency and business outcomes. Expert in Python, cloud platforms, and DevOps practices, with a proven ability to lead complex projects from inception to deployment. Passionate about driving business outcomes through innovative technology solutions.
 
 
 ## Skills  
@@ -99,19 +99,11 @@ Senior Engineer with 10+ years of experience in data engineering, machine learni
 - Implemented a new artifact tagging system to streamline developer operations.  
 - Led the migration of 10+ applications from Docker Swarm to Kubernetes using Azure AKS, automating deployment with Terraform and improving scalability.  
 
-### Senior Engineer, Dragonfly Technologies 
-
-**Mar 2019 - Jun 2022, Sydney, NSW**
-
-Working on multiple greenfield projects for various clients based primarily around the automation of network infrastructure (routers, switches etc.). With a focus on designing, creating and implementing back-end solutions and performing BAU Dev-Ops/SRE roles for managing and maintaining clients infrastructure.
-
-- Architected the discovery-tool, an automation engine for collecting and processing network device information by crawling through a network.
-- Worked on [Rapid for Telstra Purple](https://www.dragonflytechnologies.com/case-studies/telstra-rapid#) a platform for managing and provisioning network infrastructure – primarily integrating the discovery-tool.
-- Designed and developed [fusion](https://www.dragonflytechnologies.com/services/automated-managed-services) a automation managed services platform. 
 
 ### Senior Engineer  
 **Dragonfly Technologies** – Sydney, NSW (Mar 2019 – Jun 2022)  
-- Designed and developed **Fusion**, a distributed system that increased operational efficiency by 40% by managing and monitoring customer network, application, and hardware infrastructure.  
+- Worked on [Rapid for Telstra Purple](https://www.dragonflytechnologies.com/case-studies/telstra-rapid#) a platform for managing and provisioning network infrastructure – primarily integrating the discovery-tool.
+- Designed and developed [fusion](https://www.dragonflytechnologies.com/services/automated-managed-services) a distributed system that increased operational efficiency by managing and monitoring customer network, application, and hardware infrastructure.  
 - Architected the **Discovery Tool**, an automation engine for network device inventory, capable of traversing complex network structures.  
 
 ### Full Stack Engineer  
@@ -146,7 +138,7 @@ Working on multiple greenfield projects for various clients based primarily arou
 
 ## Education  
 
-- **Bachelor of Information Technology** – Charles Sturt University  
+- **Bachelor of Information Technology** – Charles Sturt University (2 years) 
 
 
 ## Certifications  
