@@ -117,6 +117,8 @@ Senior Engineer with 10+ years of experience in data engineering, machine learni
 - Upgraded Python scripts and applications from Python 2 to Python 3.  
 - Developed an automated backup system utilizing AWS Glacier to ensure secure data storage.  
 
+
+
 ### Owner and Operator  
 **9bitbyte** – Sydney, NSW (Jul 2013 – Present)  
 - Delivered contracting projects, including custom application development, infrastructure optimization, and data analysis.  
