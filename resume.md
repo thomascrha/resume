@@ -102,7 +102,7 @@ Senior Engineer with 10+ years of experience in data engineering, machine learni
 
 ### Senior Engineer  
 **Dragonfly Technologies** – Sydney, NSW (Mar 2019 – Jun 2022)  
-- Worked on [Rapid for Telstra Purple](https://www.dragonflytechnologies.com/case-studies/telstra-rapid#) a platform for managing and provisioning network infrastructure – primarily integrating the discovery-tool.
+- Worked on [Rapid for Telstra Purple](https://www.dragonflytechnologies.com/case-studies/telstra-rapid#) a platform for managing and provisioning network infrastructure – primarily integrating the discovery-tool.  
 - Designed and developed [fusion](https://www.dragonflytechnologies.com/services/automated-managed-services) a distributed system that increased operational efficiency by managing and monitoring customer network, application, and hardware infrastructure.  
 - Architected the **Discovery Tool**, an automation engine for network device inventory, capable of traversing complex network structures.  
 
