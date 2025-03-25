@@ -1,9 +1,14 @@
 SHELL           := /bin/bash
-DEFAULT_GOAL    := container
+DEFAULT_GOAL    := help
 RELEASE_VERSION := $(shell git describe --tags --abbrev=0)
 docker          := podman
 
-install-deps-debian:
+help:
+	@echo "Usage: make [target]"
+	@echo "Targets:"
+	@awk 'BEGIN {FS = ":.*?## "} /^[a-zA-Z_-]+:.*?## / {printf "  %-20s %s\n", $$1, $$2}' $(MAKEFILE_LIST)
+
+install-deps-debian: ## Install dependencies for Debian
 	@echo "Installing dependencies debian..."
 	rm -rf output
 	mkdir -p output
@@ -16,12 +21,12 @@ install-deps-debian:
 	cp resume.css resume-${RELEASE_VERSION}.css
 .PHONY: install-deps-debian
 
-convert-to-docx: install-deps-debian
+convert-to-docx: install-deps-debian ## Convert to DOCX
 	@echo "Converting to DOCX..."
 	pandoc resume.md --embed-resources --standalone -f markdown -t docx -c resume-${RELEASE_VERSION}.css -s -o output/resume-${RELEASE_VERSION}.docx
 .PHONY: convert-to-docx
 
-convert-to-html: convert-to-docx
+convert-to-html: convert-to-docx ## Convert to HTML
 	@echo "Converting to HTML..."
 	pandoc resume.md --embed-resources --standalone -f markdown -t html -c resume-${RELEASE_VERSION}.css -s -o output/resume-${RELEASE_VERSION}.html
 	rm -rf html
@@ -29,16 +34,17 @@ convert-to-html: convert-to-docx
 	cp output/resume-${RELEASE_VERSION}.html html/index.html
 .PHONY: convert-to-html
 
-convert: convert-to-html
+convert: convert-to-html ## Convert to PDF
 	@echo "Converting to PDF..."
 	wkhtmltopdf --enable-local-file-access output/resume-${RELEASE_VERSION}.html output/resume-${RELEASE_VERSION}.pdf
 	zip -jr output/resume-${RELEASE_VERSION}.zip output/resume-${RELEASE_VERSION}.*
 .PHONY: convert
 
-container:
+container: ## Convert via Containerisation
 	@echo "Converting via Docker..."
 	rm -rf output
 	$(docker) build -t resume-${RELEASE_VERSION} .
 	$(docker) create --name resume-${RELEASE_VERSION} resume-${RELEASE_VERSION}
 	$(docker) cp resume-${RELEASE_VERSION}:/app/output .
+	$(docker) rm resume-${RELEASE_VERSION}
 .PHONY: container
