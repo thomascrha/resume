@@ -77,8 +77,7 @@ keywords:
 
 ## Professional Summary  
 
-Senior Engineer with 10+ years of experience in data engineering, machine learning, and infrastructure automation. Delivered scalable solutions that improved efficiency and business outcomes. Expert in Python, cloud platforms, and DevOps practices, with a proven ability to lead complex projects from inception to deployment. Passionate about driving business outcomes through innovative technology solutions.
-
+Senior Engineer with 10+ years of experience in data engineering, machine learning, and infrastructure automation. Proven ability to lead complex projects from inception to deployment, delivering scalable solutions that enhance efficiency and business outcomes. Expertise in Python, cloud platforms, and DevOps, with a passion for leveraging technology to drive innovation.
 
 ## Skills  
 
@@ -86,62 +85,61 @@ Senior Engineer with 10+ years of experience in data engineering, machine learni
 **Data Science & Machine Learning:** Pandas, NumPy, Matplotlib, Scikit-learn, Hugging Face, AzureML, Argilla, Databricks, Seaborn, Plotly, spaCy  
 **Cloud & Infrastructure:** AWS, Azure, Google Cloud Platform (GCP), Docker, Kubernetes, Terraform, Helm, Ansible  
 **Databases:** PostgreSQL, MySQL/MariaDB, MSSQL, MongoDB, ElasticSearch  
-**Web Frameworks:** FastAPI, Flask, Django, SQLAlchemy, React, HTMX, Vue  
-
+**Web Frameworks:** FastAPI, Flask, Django, SQLAlchemy, React, HTMX, VueJS, Angular, MaterialUI
 
 ## Experience
 
 ### Machine Learning Engineer  
 **QBE Australia** – Sydney, NSW (Jun 2022 – Present)  
-- Led the migration of 10+ applications from Docker Swarm to Kubernetes using Azure AKS, automating deployment with Terraform and ADO pipelines. 
-- Built a web application utilizing large language models (LLMs) to summarize and categorize claims-related calls, enhancing operational efficiency.  
-- Worked on multiple projects using Hugging Face, OpenAI, and Argilla to develop NLP models for claims processing and fraud detection.
-- Migrated the employee allocation tool from a legacy system to a modern stack using FastAPI and PostgreSQL.  
-- Redesigned and optimized the property triage tool-chain, significantly improving reliability and usability.  
+
+- Led the migration of 10+ applications from Docker Swarm to Kubernetes (Azure AKS), automating deployments with Terraform and ADO pipelines.
+- Developed a web application using large language models (LLMs) to summarize and categorize claims-related calls, improving operational efficiency.
+- Built NLP models for claims processing and fraud detection using Hugging Face, OpenAI, and Argilla.
+- Migrated an employee allocation tool from legacy systems to FastAPI and PostgreSQL.
+- Redesigned the property triage tool-chain, enhancing reliability and usability.
 
 ### Senior Engineer  
 **Dragonfly Technologies** – Sydney, NSW (Mar 2019 – Jun 2022)  
-- Worked on [Rapid for Telstra Purple](https://www.dragonflytechnologies.com/case-studies/telstra-rapid#) a platform for managing and provisioning network infrastructure – primarily integrating the discovery-tool.  
-- Designed and developed [fusion](https://www.dragonflytechnologies.com/services/automated-managed-services) a distributed system that increased operational efficiency by managing and monitoring customer network, application, and hardware infrastructure.  
-- Architected the Discovery Tool, an automation engine for network device inventory, capable of traversing complex network structures.  
+
+- Developed [Fusion](https://www.dragonflytechnologies.com/services/automated-managed-services), a distributed system that optimized network, application, and hardware infrastructure management.
+- Architected Discovery Tool, an automation engine for network device inventory used by Telstra, enabling efficient infrastructure audits.
+- Contributed to [Rapid for Telstra Purple](https://www.dragonflytechnologies.com/case-studies/telstra-rapid#), a platform for managing and provisioning network infrastructure.
 
 ### Full Stack Engineer  
 **Appen Australia** – Sydney, NSW (Jan 2018 – Jan 2019)  
-- Spearheaded improvements to Appen’s language resource tool, Ampersand, during its transition from legacy systems.  
-- Developed video transcription and lexicon tools, enabling advanced annotation and resource management.  
+
+- Enhanced Ampersand, a language resource tool transitioning from legacy systems.
+- Developed video transcription and lexicon tools for advanced annotation and resource management.
 
 ### Project Engineer  
 **Appen Australia** – Sydney, NSW (Sep 2014 – Jan 2018)  
-- Designed custom solutions and ETL pipelines for client projects.  
-- Upgraded Python scripts and applications from Python 2 to Python 3.  
-- Developed an automated backup system utilizing AWS Glacier to ensure secure data storage.  
+
+- Designed custom ETL pipelines and automated solutions for client projects.
+- Migrated applications from Python 2 to Python 3.
+- Built an automated AWS Glacier backup system for secure data storage.
 
 ### Owner and Operator  
 **9bitbyte** – Sydney, NSW (Jul 2013 – Present)  
-- Delivered contracting projects, including custom application development, infrastructure optimization, and data analysis.  
-
+- Delivered contract projects, including custom application development, infrastructure optimization, and data analysis.
 
 ## Achievements  
 
-- **Fusion:** Delivered an in-house tool for Dragonfly Technologies that allowed customers to self-manage workflows, providing scalable managed services.  
-- **Discovery Tool:** Designed for Telstra to automate network device discovery, enabling efficient infrastructure audits.  
-- **End-to-End Selenium Testing Suite:** Developed a testing suite with server-side automation and XPath recording tools, streamlining client-side test workflows.  
-
+- **Fusion:** Built an in-house tool for Dragonfly Technologies, allowing customers to self-manage workflows, improving scalability.
+- **Discovery Tool:** Developed for Telstra to automate network device discovery and enable efficient infrastructure audits.
+- **End-to-End Selenium Testing Suite:** Created a testing suite with server-side automation and XPath recording tools, streamlining test workflows.
 
 ## Projects  
 
-- **[Whynes](https://github.com/thomascrha/whynes):** A 6502 Nintendo emulator written in Python.  
-- **[Textual Game of Life](https://github.com/thomascrha/textual-game-of-life):** Implementation of Conway's Game of Life in a terminal using Textual.  
-- **[Resume](https://github.com/thomascrha/resume):** This resume, written in Markdown and converted to HTML/PDF/Docx using Pandoc - with a github pipline generating the resume artifacts
-
+- **Whynes:** A 6502 Nintendo emulator written in Python. [GitHub](https://github.com/thomascrha/whynes)
+- **Textual Game of Life:** Implementation of Conway's Game of Life in a terminal using Textual. [GitHub](https://github.com/thomascrha/textual-game-of-life)
+- **Resume Automation:** Resume generated using Markdown, Pandoc, and a GitHub pipeline. [GitHub](https://github.com/thomascrha/resume)
 
 ## Education  
 
-- **Bachelor of Information Technology** – Charles Sturt University (2 years) 
-
+**Bachelor of Information Technology** – Charles Sturt University (2 years) 
 
 ## Certifications  
 
-- **AWS Certified Developer – Associate**  
-- **CCNA Routing and Switching**  
-- **Certified Scrum Developer (CSD)**  
+**AWS Certified Developer – Associate**  
+**CCNA Routing and Switching**  
+**Certified Scrum Developer (CSD)**  
