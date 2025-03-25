@@ -93,18 +93,17 @@ Senior Engineer with 10+ years of experience in data engineering, machine learni
 
 ### Machine Learning Engineer  
 **QBE Australia** – Sydney, NSW (Jun 2022 – Present)  
+- Led the migration of 10+ applications from Docker Swarm to Kubernetes using Azure AKS, automating deployment with Terraform and ADO pipelines. 
 - Built a web application utilizing large language models (LLMs) to summarize and categorize claims-related calls, enhancing operational efficiency.  
+- Worked on multiple projects using Hugging Face, OpenAI, and Argilla to develop NLP models for claims processing and fraud detection.
 - Migrated the employee allocation tool from a legacy system to a modern stack using FastAPI and PostgreSQL.  
 - Redesigned and optimized the property triage tool-chain, significantly improving reliability and usability.  
-- Implemented a new artifact tagging system to streamline developer operations.  
-- Led the migration of 10+ applications from Docker Swarm to Kubernetes using Azure AKS, automating deployment with Terraform and improving scalability.  
-
 
 ### Senior Engineer  
 **Dragonfly Technologies** – Sydney, NSW (Mar 2019 – Jun 2022)  
 - Worked on [Rapid for Telstra Purple](https://www.dragonflytechnologies.com/case-studies/telstra-rapid#) a platform for managing and provisioning network infrastructure – primarily integrating the discovery-tool.  
 - Designed and developed [fusion](https://www.dragonflytechnologies.com/services/automated-managed-services) a distributed system that increased operational efficiency by managing and monitoring customer network, application, and hardware infrastructure.  
-- Architected the **Discovery Tool**, an automation engine for network device inventory, capable of traversing complex network structures.  
+- Architected the Discovery Tool, an automation engine for network device inventory, capable of traversing complex network structures.  
 
 ### Full Stack Engineer  
 **Appen Australia** – Sydney, NSW (Jan 2018 – Jan 2019)  
@@ -116,8 +115,6 @@ Senior Engineer with 10+ years of experience in data engineering, machine learni
 - Designed custom solutions and ETL pipelines for client projects.  
 - Upgraded Python scripts and applications from Python 2 to Python 3.  
 - Developed an automated backup system utilizing AWS Glacier to ensure secure data storage.  
-
-
 
 ### Owner and Operator  
 **9bitbyte** – Sydney, NSW (Jul 2013 – Present)  
