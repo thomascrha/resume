@@ -89,7 +89,7 @@ Senior Engineer with 10+ years of experience in data engineering, machine learni
 
 ## Experience
 
-### Machine Learning Engineer  
+### Senior Machine Learning Engineer  
 **QBE Australia** – Sydney, NSW (Jun 2022 – Present)  
 
 - Led the migration of 10+ applications from Docker Swarm to Kubernetes (Azure AKS), automating deployments with Terraform and ADO pipelines.
