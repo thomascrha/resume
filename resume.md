@@ -120,12 +120,14 @@ Senior Engineer with 10+ years of experience in data engineering, machine learni
 
 ### Owner and Operator  
 **9bitbyte** – Sydney, NSW (Jul 2013 – Present)  
+
 - Delivered contract projects, including custom application development, infrastructure optimization, and data analysis.
 
 ## Achievements  
 
 - **Fusion:** Built an in-house tool for Dragonfly Technologies, allowing customers to self-manage workflows, improving scalability.
 - **Discovery Tool:** Developed for Telstra to automate network device discovery and enable efficient infrastructure audits.
+- **AKS Migration:** Led the successful migration of multiple applications to Azure Kubernetes Service.
 - **End-to-End Selenium Testing Suite:** Created a testing suite with server-side automation and XPath recording tools, streamlining test workflows.
 
 ## Projects  
@@ -136,7 +138,7 @@ Senior Engineer with 10+ years of experience in data engineering, machine learni
 
 ## Education  
 
-**Bachelor of Information Technology** – Charles Sturt University (2 years) 
+**Bachelor of Computer Science** – Charles Sturt University (2 years) 
 
 ## Certifications  
 
