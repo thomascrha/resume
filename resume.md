@@ -90,13 +90,28 @@ Senior Engineer with 10+ years of experience in data engineering, machine learni
 ## Experience
 
 ### Senior Machine Learning Engineer  
-**QBE Australia** – Sydney, NSW (Jun 2022 – Present)  
+**QBE Australia** – Sydney, NSW (July 2025 – Current)  
 
 - Led the migration of 10+ applications from Docker Swarm to Kubernetes (Azure AKS), automating deployments with Terraform and ADO pipelines.
 - Developed a web application using large language models (LLMs) to summarize and categorize claims-related calls, improving operational efficiency.
+- Built ML workflows using Azure AI Foundry to develop models that automatically summarize complex insurance documents, reducing manual review time by 60%.
+- Implemented document classification models to categorize policy documents, claims forms, and regulatory filings using Azure OpenAI and custom fine-tuned models.
+
+### Data Engineer
+**NDIS Quality and Safeguards Commission** - Sydney, NSW (Feb 2025 - July 2025)
+
+- Worked on the implementation of Salesforce CRM system to modernize participant and provider management processes.
+- Architected AWS-based data platform for migrating legacy on-premises data warehouse to cloud infrastructure, improving scalability and performance.
+- Designed ETL pipelines using AWS Glue and Lambda to transform and migrate historical data from legacy systems to modern cloud-native architecture.
+- Implemented data governance and security frameworks to ensure compliance with government data protection requirements during the migration process.
+
+### Senior Machine Learning Engineer  
+**QBE Australia** – Sydney, NSW (Jun 2022 – Feb 2025)  
+
 - Built NLP models for claims processing and fraud detection using Hugging Face, OpenAI, and Argilla.
 - Migrated an employee allocation tool from legacy systems to FastAPI and PostgreSQL.
 - Redesigned the property triage tool-chain, enhancing reliability and usability.
+- Designed and deployed end-to-end ML pipelines for processing unstructured insurance data, integrating Azure Cognitive Services for OCR and text extraction.
 
 ### Senior Engineer  
 **Dragonfly Technologies** – Sydney, NSW (Mar 2019 – Jun 2022)  
