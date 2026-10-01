@@ -92,8 +92,8 @@ Senior Engineer with 10+ years of experience in data engineering, machine learni
 ### Senior Machine Learning Engineer  
 **QBE Australia** – Sydney, NSW (July 2025 – Current)  
 
-- Led the migration of 10+ applications from Docker Swarm to Kubernetes (Azure AKS), automating deployments with Terraform and ADO pipelines.
-- Developed a web application using large language models (LLMs) to summarize and categorize claims-related calls, improving operational efficiency.
+- Led the migration of 10+ production applications from Docker Swarm to Kubernetes (Azure AKS), automating deployments with Terraform and ADO pipelines.
+- Developed a web application/agent workflow using generative AI to summarize and categorize claims-related calls, improving operational efficiency.
 - Built ML workflows using Azure AI Foundry to develop models that automatically summarize complex insurance documents, reducing manual review time by 60%.
 - Implemented document classification models to categorize policy documents, claims forms, and regulatory filings using Azure OpenAI and custom fine-tuned models.
 
@@ -143,7 +143,7 @@ Senior Engineer with 10+ years of experience in data engineering, machine learni
 - **Fusion:** Built an in-house tool for Dragonfly Technologies, allowing customers to self-manage workflows, improving scalability.
 - **Discovery Tool:** Developed for Telstra to automate network device discovery and enable efficient infrastructure audits.
 - **AKS Migration:** Led the successful migration of multiple applications to Azure Kubernetes Service.
-- **End-to-End Selenium Testing Suite:** Created a testing suite with server-side automation and XPath recording tools, streamlining test workflows.
+- **Call Summarisation Agent**: Developed web application/agent workflow using generative AI to summarize and categorize claims-related calls, improving operational efficiency.
 
 ## Projects  
 
