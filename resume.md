@@ -25,7 +25,7 @@ keywords:
   - 'jupyter'
   - 'seaborn'
   - 'plotly'
-  - 'hugginface'
+  - 'huggingface'
   - 'openai'
   - 'argilla'
   - 'databricks'
@@ -93,16 +93,16 @@ Senior Engineer with 10+ years of experience in data engineering, machine learni
 **QBE Australia** – Sydney, NSW (July 2025 – Current)  
 
 - Led the migration of 10+ production applications from Docker Swarm to Kubernetes (Azure AKS), automating deployments with Terraform and ADO pipelines.
-- Developed a web application/agent workflow using generative AI to summarize and categorize claims-related calls, improving operational efficiency.
-- Built ML workflows using Azure AI Foundry to develop models that automatically summarize complex insurance documents, reducing manual review time by 60%.
-- Implemented document classification models to categorize policy documents, claims forms, and regulatory filings using Azure OpenAI and custom fine-tuned models.
+- Developed a web application/agent workflow using generative AI to summarise and categorise claims-related calls, improving operational efficiency.
+- Built ML workflows using Azure AI Foundry to develop models that automatically summarise complex insurance documents, reducing manual review time by 60%.
+- Implemented document classification models to categorise policy documents, claim forms, and regulatory filings using Azure OpenAI and custom fine-tuned models.
 
 ### Data Engineer
 **NDIS Quality and Safeguards Commission** - Sydney, NSW (Feb 2025 - July 2025)
 
-- Worked on the implementation of Salesforce CRM system to modernize participant and provider management processes.
-- Architected AWS-based data platform for migrating legacy on-premises data warehouse to cloud infrastructure, improving scalability and performance.
-- Designed ETL pipelines using AWS Glue and Lambda to transform and migrate historical data from legacy systems to modern cloud-native architecture.
+- Worked on the implementation of a Salesforce CRM system to modernise participant and provider management processes.
+- Architected an AWS-based data platform for migrating a legacy on-premises data warehouse to cloud infrastructure, improving scalability and performance.
+- Designed ETL pipelines using AWS Glue and Lambda to transform and migrate historical data from legacy systems to a modern cloud-native architecture.
 - Implemented data governance and security frameworks to ensure compliance with government data protection requirements during the migration process.
 
 ### Senior Machine Learning Engineer  
@@ -110,14 +110,14 @@ Senior Engineer with 10+ years of experience in data engineering, machine learni
 
 - Built NLP models for claims processing and fraud detection using Hugging Face, OpenAI, and Argilla.
 - Migrated an employee allocation tool from legacy systems to FastAPI and PostgreSQL.
-- Redesigned the property triage tool-chain, enhancing reliability and usability.
+- Redesigned the property triage toolchain, enhancing reliability and usability.
 - Designed and deployed end-to-end ML pipelines for processing unstructured insurance data, integrating Azure Cognitive Services for OCR and text extraction.
 
 ### Senior Engineer  
 **Dragonfly Technologies** – Sydney, NSW (Mar 2019 – Jun 2022)  
 
-- Developed [Fusion](https://www.dragonflytechnologies.com/services/automated-managed-services), a distributed system that optimized network, application, and hardware infrastructure management.
-- Architected Discovery Tool, an automation engine for network device inventory used by Telstra, enabling efficient infrastructure audits.
+- Developed [Fusion](https://www.dragonflytechnologies.com/services/automated-managed-services), a distributed system that optimised network, application, and hardware infrastructure management.
+- Architected the Discovery Tool, an automation engine for network device inventory used by Telstra, enabling efficient infrastructure audits.
 - Contributed to [Rapid for Telstra Purple](https://www.dragonflytechnologies.com/case-studies/telstra-rapid#), a platform for managing and provisioning network infrastructure.
 
 ### Full Stack Engineer  
@@ -136,14 +136,14 @@ Senior Engineer with 10+ years of experience in data engineering, machine learni
 ### Owner and Operator  
 **9bitbyte** – Sydney, NSW (Jul 2013 – Present)  
 
-- Delivered contract projects, including custom application development, infrastructure optimization, and data analysis.
+- Delivered contract projects, including custom application development, infrastructure optimisation, and data analysis.
 
 ## Achievements  
 
 - **Fusion:** Built an in-house tool for Dragonfly Technologies, allowing customers to self-manage workflows, improving scalability.
 - **Discovery Tool:** Developed for Telstra to automate network device discovery and enable efficient infrastructure audits.
 - **AKS Migration:** Led the successful migration of multiple applications to Azure Kubernetes Service.
-- **Call Summarisation Agent**: Developed web application/agent workflow using generative AI to summarize and categorize claims-related calls, improving operational efficiency.
+- **Call Summarisation Agent:** Engineered and deployed a generative AI workflow that transformed claims processing efficiency by fully automating the summarisation and categorisation of customer calls.
 
 ## Projects  
 
@@ -153,10 +153,10 @@ Senior Engineer with 10+ years of experience in data engineering, machine learni
 
 ## Education  
 
-**Bachelor of Computer Science** – Charles Sturt University (2 years) 
+**Coursework towards Bachelor of Computer Science** – Charles Sturt University  
 
 ## Certifications  
 
 **AWS Certified Developer – Associate**  
 **CCNA Routing and Switching**  
-**Certified Scrum Developer (CSD)**  
+**Certified Scrum Developer (CSD)**
