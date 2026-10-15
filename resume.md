@@ -29,6 +29,12 @@ keywords:
   - 'openai'
   - 'argilla'
   - 'databricks'
+  - 'spark'
+  - 'pyspark'
+  - 'mlflow'
+  - 'kubeflow'
+  - 'kafka'
+  - 'azure-devops'
   - 'fastapi'
   - 'flask'
   - 'django'
@@ -82,8 +88,8 @@ Senior Engineer with 10+ years of experience in data engineering, machine learni
 ## Skills  
 
 **Programming Languages:** Python, JavaScript, C#/ASP.NET, Bash, SQL, HTML/CSS  
-**Data Science & Machine Learning:** Pandas, NumPy, Matplotlib, Scikit-learn, Hugging Face, AzureML, Argilla, Databricks, Seaborn, Plotly, spaCy  
-**Cloud & Infrastructure:** AWS, Azure, Google Cloud Platform (GCP), Docker, Kubernetes, Terraform, Helm, Ansible  
+**Data Science & Machine Learning:** Pandas, NumPy, Matplotlib, Scikit-learn, Hugging Face, AzureML, Argilla, Databricks, Spark/PySpark, MLflow, Kubeflow, Seaborn, Plotly, spaCy  
+**Cloud & Infrastructure:** AWS, Azure, Google Cloud Platform (GCP), Azure DevOps, Docker, Kubernetes, Terraform, Helm, Ansible, Kafka  
 **Databases:** PostgreSQL, MySQL/MariaDB, MSSQL, MongoDB, ElasticSearch  
 **Web Frameworks:** FastAPI, Flask, Django, SQLAlchemy, React, HTMX, VueJS, Angular, MaterialUI
 
@@ -92,9 +98,11 @@ Senior Engineer with 10+ years of experience in data engineering, machine learni
 ### Senior Machine Learning Engineer  
 **QBE Australia** – Sydney, NSW (July 2025 – Current)  
 
-- Led the migration of 10+ production applications from Docker Swarm to Kubernetes (Azure AKS), automating deployments with Terraform and ADO pipelines.
+- Led the migration of 10+ production applications from Docker Swarm to Kubernetes (Azure AKS), automating deployments using Terraform and Azure DevOps (ADO) pipelines.
+- Built and deployed automated ML workflows using Azure AI Foundry to develop models that automatically summarise complex insurance documents, reducing manual review time by 60%.
+- Architected continuous model monitoring and automated retraining pipelines to detect data drift, evaluate performance, and maintain high accuracy for production models.
+- Established comprehensive testing frameworks using PyTest, integrating automated unit tests, data validation, and model evaluation metrics directly into CI/CD pipelines to validate code continuously during development.
 - Developed a web application/agent workflow using generative AI to summarise and categorise claims-related calls, improving operational efficiency.
-- Built ML workflows using Azure AI Foundry to develop models that automatically summarise complex insurance documents, reducing manual review time by 60%.
 - Implemented document classification models to categorise policy documents, claim forms, and regulatory filings using Azure OpenAI and custom fine-tuned models.
 
 ### Data Engineer
@@ -142,7 +150,7 @@ Senior Engineer with 10+ years of experience in data engineering, machine learni
 
 - **Fusion:** Built an in-house tool for Dragonfly Technologies, allowing customers to self-manage workflows, improving scalability.
 - **Discovery Tool:** Developed for Telstra to automate network device discovery and enable efficient infrastructure audits.
-- **AKS Migration:** Led the successful migration of multiple applications to Azure Kubernetes Service.
+- **AKS Migration:** Led the successful migration of multiple applications to Azure Kubernetes Service via Terraform and automated pipelines.
 - **Call Summarisation Agent:** Engineered and deployed a generative AI workflow that transformed claims processing efficiency by fully automating the summarisation and categorisation of customer calls.
 
 ## Projects  
